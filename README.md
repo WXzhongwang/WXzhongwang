@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔭 I’m 钟望
 - 🌱 I’m currently learning BigData\Devops\DDD...
-- :hammer:  个人网站：[http://www.neowho.cc](https://wxzhongwang.github.io/)
+- :hammer:  个人网站：[https://wxzhongwang.github.io/](https://wxzhongwang.github.io/)
 - 📫 How to reach me: 18668485565@163.com
 - 😄 Pronouns: him/he...
 
