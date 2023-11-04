@@ -8,7 +8,7 @@
 - 😄 Pronouns: him/he...
 
 ## Fancy seeing you here! 👋
-Greetings, I'm 钟望 from Hangzhou. If you're interested in my work, please feel free to contact me via email at 18668485565@163.com.  💬💡🤝
+Greetings, I'm 钟望 from Hangzhou. If you're interested in my work, please contact me via email at 18668485565@163.com.  💬💡🤝
 
 Thank you! 😊
 
